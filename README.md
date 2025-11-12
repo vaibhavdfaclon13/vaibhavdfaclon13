@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently mastering **Python, Tableau,Powerbi, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning**
 
-- 📫 You can reach me on my email id **vaibhavdongre13@gmail.com**
+- 📫 You can reach me on my email id **vaibhav.d@iosense.io**
 
 <!-- ## `Projects:`
 ### [Forecasting CO2 Emissions Deployment](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
@@ -67,7 +67,7 @@
 <!-- <a href="https://www.kaggle.com/moindalvi" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="MoinDalvs" height="40" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/channel/UCN7xdRsVxEaaH5H0f3eNNmg" target="blank"><img align="center" src="https://img.icons8.com/color/344/youtube-play.png" alt="MoinDalvs" height="50" width="50" /></a> -->
 <!-- <a href="https://twitter.com/DalvsHubot" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="MoinDalvs" height="40" width="40" /></a> -->
-<a href="mailto:vaibhavdongre13@gmail.com" target="blank"><img align="center" src="https://avatars.slack-edge.com/2021-02-09/1730367132018_43f8f38b9659ddef2131_512.png" alt="Gmail" height="40" width="40" /></a>
+<a href="mailto:vaibhav.d@iosense.io" target="blank"><img align="center" src="https://avatars.slack-edge.com/2021-02-09/1730367132018_43f8f38b9659ddef2131_512.png" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
